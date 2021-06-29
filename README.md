@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Kadiwala
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 visit :- abhishekkadiwala.netlify.com
